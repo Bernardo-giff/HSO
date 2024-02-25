@@ -301,4 +301,11 @@ TSWLatexianTemp*
 #*Notes.bib
 
 # Ignore the data
-data/*
+Data/*
+
+
+# Ignore the Research
+Research/*
+
+# Ignore the Support
+support/*
